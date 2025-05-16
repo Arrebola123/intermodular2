@@ -5,7 +5,7 @@ use App\Models\Usuario;
 
 
 $nombre = 'Usuario';
-$email = 'usuario@example.com';
+$email = 'usuario@example2.com';
 $password = '123456';
 $role = 'user';
 
